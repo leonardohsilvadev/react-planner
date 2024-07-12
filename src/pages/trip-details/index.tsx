@@ -1,3 +1,3 @@
-export function TripDetailsPage() {
-  return <h1>Trip Details</h1>
+export default function TripDetailsPage() {
+  return <h1>Trip Details</h1>;
 }
